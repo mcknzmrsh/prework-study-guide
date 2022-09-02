@@ -1,2 +1,3 @@
-<h1>Prework Study Guide<h/>
-a study guide for pre work course
+<h1>Prework Study Guide<h1/>
+
+A study guide for pre work course
